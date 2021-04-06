@@ -1,0 +1,21 @@
+[
+{
+    "nama": "Usman Khabilah",
+    "nrp": "08625738",
+    "email": "utsman.khabillah@gmail.com",
+    "jurusan": "Agama Fiqih",
+    "idDosenWali": 2
+}, {
+    "nama": "Hamzah",
+    "nrp": "08625765",
+    "email": "hamzah@gmail.com",
+    "jurusan": "Agama Hadits",
+    "idDosenWali": 1
+}, {
+    "nama": "Muhammad Nur Fuadi",
+    "nrp": "08625798",
+    "email": "mnurfuadi@gmail.com",
+    "jurusan": "Agama Hadits",
+    "idDosenWali": 1
+}
+]
